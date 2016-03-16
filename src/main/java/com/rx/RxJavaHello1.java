@@ -13,7 +13,7 @@ import rx.functions.Func1;
  * @author wangpeng
  * @date 14 Mar 2016 18:54:26
  */
-public class RxJavaHello {
+public class RxJavaHello1 {
 	public static void main(String[] args) {
 		// rxHelloWorld();
 		// simple();
